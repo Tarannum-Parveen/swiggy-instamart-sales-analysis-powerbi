@@ -57,7 +57,7 @@ Supermarket Type 1 generated the highest sales and orders compared to other shop
 ---
 ## Dashboard Preview
 
-![Dashboard Overview](Images/Dashboard.pdf)
+![Dashboard Overview](Image/Dashboard.pdf)
 ---
 
 ## Files Included
