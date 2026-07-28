@@ -3,9 +3,7 @@
 ## Project Overview
 
 This project presents an interactive Power BI dashboard built to analyze Swiggy Instamart sales performance. The dashboard helps identify sales trends, customer behavior, shop performance, and product category insights using visual analytics.
-
 ---
-
 ## Objectives
 
 - Analyze total sales and total orders
@@ -15,18 +13,14 @@ This project presents an interactive Power BI dashboard built to analyze Swiggy 
 - Analyze shop types
 - Identify top-performing product categories
 - Compare yearly shop openings
-
 ---
-
 ## Dashboard KPIs
 
 - Total Sales
 - Total Orders
 - Average Sales
 - Average Rating
-
 ---
-
 ## Dashboard Insights
 
 ### Sales by Shop Size
@@ -54,26 +48,16 @@ Top-performing categories include:
 ### Shop Type Analysis
 
 Supermarket Type 1 generated the highest sales and orders compared to other shop types.
-
 ---
-
 ## Tools Used
-
 - Power BI Desktop
 - Power Query
 - DAX
 - Microsoft Excel
-
 ---
-
 ## Dashboard Preview
 
-Add your dashboard screenshot here.
-
-```
-Images/Dashboard_Overview.png
-```
-
+![Dashboard Overview](Images/Dashboard_Overview.png)
 ---
 
 ## Files Included
@@ -84,7 +68,6 @@ Dashboard/
 Images/
 README.md
 ```
-
 ---
 
 ## Skills Demonstrated
